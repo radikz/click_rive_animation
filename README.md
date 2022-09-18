@@ -15,7 +15,7 @@ Currently, it takes one animation to run.
 Just drop it in your `pubspec.yaml`
 
 ```yaml
-click_rive_animation: ^0.3.0-alpha
+click_rive_animation: ^0.1.0-alpha
 ```
 
 Make sure you have an animation in rive. No worries if you have none of that. In [here](https://help.rive.app/), you can find good documentation about rive which help you create a good animation.
