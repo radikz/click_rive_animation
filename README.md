@@ -34,6 +34,6 @@ Scaffold(
 )
 ```
 
-![screenshot](screenshots/click_anim.gif)
+![screenshot](https://github.com/radikz/click_rive_animation/blob/master/screenshots/click_anim.gif)
 
 Ideas are appreciated!
