@@ -1,8 +1,6 @@
 # Click Rive Animation
 Flutter package for clicking animation with the help of rive animation
 
-## Documentation
-
 Any help is appreciated! Comment, suggestions, issues, or PR's!
 
 ---
